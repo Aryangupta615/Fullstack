@@ -2,6 +2,10 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
+    position:relative;
+    top:0;
+    left:
+    
 }
 
 /* Header */
@@ -90,6 +94,5 @@ header {
 }
 .box{
     display:inline;
+    text-
 }
-
-
